@@ -1,3 +1,3 @@
 # PRACTISE-PROJECTS
 THESE ARE MY LEARNING PROJECTS
-this is a tic tac toe game usinf tailwind css and js
+1.tic tac toe (html,css,tailwind css,js)
